@@ -129,7 +129,7 @@ I’m passionate about integrating smart contracts with modern web apps and buil
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=arshali2774&show_icons=true&hide_title=true&theme=tokyonight" height="140" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=arshali2774&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="140" /></td>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=arshali2774&theme=tokyonight" height="140" /></td>
     </tr>
   </table>
@@ -139,9 +139,12 @@ I’m passionate about integrating smart contracts with modern web apps and buil
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arshali2774&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshali2774&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🌐 Connect With Me
 
-![](https://github-profile-trophy.vercel.app/?username=arshali2774&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+- 🔗 [Portfolio](https://portfolio-ten-phi-50.vercel.app)
+- 📨 Email: [arshaliwork@gmail.com](mailto:arshaliwork@gmail.com)
+- 👤 LinkedIn: [arshali2774](https://www.linkedin.com/in/arshali2774/)
+- 🔔 Twitter: [init_Arsh](https://x.com/init_Arsh)
 
 ### ✍️ Random Dev Quote
 
