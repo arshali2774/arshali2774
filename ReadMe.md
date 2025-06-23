@@ -1,10 +1,11 @@
+# Hi there, I'm Arsh Ali 👋
+
 <p align="center">
   <a href="https://portfolio-ten-phi-50.vercel.app/">
     <img class="fade-in" src="https://github.com/arshali2774/arshali2774/blob/main/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?raw=true" alt="MasterHead" width="100%" />
   </a>
 </p>
 
-# Hi there, I'm Arsh Ali 👋
 ## Junior Full Stack Developer | Crafting Seamless Web & Decentralized Experiences from India
 
 <p align="center">
