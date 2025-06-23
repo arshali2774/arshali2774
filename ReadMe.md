@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/13d2c753eed929097cc13bbb1d3e482c/67441800327766fc-96/s1920x1080/fe67f6e7feaaf682aa84cd0280cbb4eed24e9dea.gif)](https://portfolio-ten-phi-50.vercel.app/)
+[![MasterHead](https://github.com/arshali2774/arshali2774/blob/main/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif)](https://portfolio-ten-phi-50.vercel.app/)
 
 # 💫 About Me:
 
