@@ -6,13 +6,10 @@
 
 # Hi there, I'm Arsh Ali 👋
 ## Junior Full Stack Developer | Building Web & Web3 Experiences from India
----
 
 <p align="center">
   <img src="https://github.com/arshali2774/arshali2774/blob/989132a64d93db22218cc36e379a50a11ec1def6/I%20React%20to%20problems%2C%20Express%20myself%20clearly%2C%20and%20Mongo%20like%20I%20own%20the%20DB..png?raw=true" alt="React Express Mongo Quote" width="100%" />
 </p>
-
----
 
 # 💫 About Me:
 
