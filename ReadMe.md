@@ -28,7 +28,6 @@
   <img src="https://github.com/arshali2774/arshali2774/blob/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="React Express Mongo Quote" width="100%" />
 </p>
 
-
 **Languages**:
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -92,7 +91,9 @@
 
 ## 🚀 Projects
 
-
+<p align="center">
+  <img src="https://github.com/arshali2774/arshali2774/blob/main/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="React Express Mongo Quote" width="100%" />
+</p>
 
 **[Personal Portfolio](https://portfolio-ten-phi-50.vercel.app)**  
 [GitHub Repo](https://github.com/arshali2774/Portfolio.git)  
