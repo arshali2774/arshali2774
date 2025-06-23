@@ -114,7 +114,7 @@ _E-commerce project built while learning React. Features product listings, filte
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://github.com/arshali2774/arshali2774/blob/main/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="React Express Mongo Quote" width="500" />
+  <img src="https://github.com/arshali2774/arshali2774/blob/main/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif" alt="React Express Mongo Quote" width="500" />
 </p>
 
 Deep diving into the Web3 universe:  
@@ -129,7 +129,7 @@ I’m passionate about integrating smart contracts with modern web apps and buil
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=arshali2774&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="140" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=arshali2774&show_icons=true&hide_title=true&theme=tokyonight" height="140" /></td>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=arshali2774&theme=tokyonight" height="140" /></td>
     </tr>
   </table>
