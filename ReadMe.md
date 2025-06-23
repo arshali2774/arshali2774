@@ -130,6 +130,7 @@ I’m passionate about integrating smart contracts with modern web apps and buil
 - 📨 Email: [arshaliwork@gmail.com](mailto:arshaliwork@gmail.com)
 - 👤 LinkedIn: [arshali2774](https://www.linkedin.com/in/arshali2774/)
 - 🔔 Twitter: [init_Arsh](https://x.com/init_Arsh)
+- 💬 Discord: arsh_ali_2774
 
 ## 🌟 Motto
 
