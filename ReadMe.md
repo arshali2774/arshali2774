@@ -24,10 +24,6 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github.com/arshali2774/arshali2774/blob/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="React Express Mongo Quote" width="500" />
-</p>
-
 **Languages**:
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -141,17 +137,21 @@ I’m passionate about integrating smart contracts with modern web apps and buil
 
 ## 🌐 Connect With Me
 
+<p align="center">
+  <img src="https://github.com/arshali2774/arshali2774/blob/main/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="React Express Mongo Quote" width="500" />
+</p>
+
 - 🔗 [Portfolio](https://portfolio-ten-phi-50.vercel.app)
 - 📨 Email: [arshaliwork@gmail.com](mailto:arshaliwork@gmail.com)
 - 👤 LinkedIn: [arshali2774](https://www.linkedin.com/in/arshali2774/)
 - 🔔 Twitter: [init_Arsh](https://x.com/init_Arsh)
 
-### ✍️ Random Dev Quote
+## 🌟 Motto
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Fueled%20by%20coffee.%20Focused%20on%20code.%20Occasionally%20transforming%20bugs%20into%20features.-black?style=for-the-badge&logo=github&color=0a0a0a&logoColor=white" />
+</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%">
+</p>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=arshali2774&icon=7&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
