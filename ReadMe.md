@@ -5,15 +5,21 @@
 </p>
 
 # Hi there, I'm Arsh Ali 👋
-## Junior Full Stack Developer | Building Web & Web3 Experiences from India
+## Junior Full Stack Developer | Crafting Seamless Web & Decentralized Experiences from India
 
 <p align="center">
   <img src="https://github.com/arshali2774/arshali2774/blob/989132a64d93db22218cc36e379a50a11ec1def6/I%20React%20to%20problems%2C%20Express%20myself%20clearly%2C%20and%20Mongo%20like%20I%20own%20the%20DB..png?raw=true" alt="React Express Mongo Quote" width="100%" />
 </p>
 
-# 💫 About Me:
+## 💡 About Me
 
-🔭 I’m currently working on a Web3 project called Desights.<br>🌱 I’m currently learning blockchain and how to build dApps.<br>💬 Ask me about MERN stack development<br>
+- 🔧 Full Stack Developer with 1+ year of startup experience
+- ✨ Passionate about building responsive apps & intuitive UI
+- ⚛️ Exploring blockchain & Web3 integrations
+- 🌐 Based in Siddharthanagar, India
+- 🍃 Font geek (hi, Space Grotesk 👀)
+- ♟ I play chess — [Add me on Chess.com](https://link.chess.com/friend/Y2r0MB)
+- 🌍 I love traveling and photography — [Insta: @lightl3ns](https://www.instagram.com/lightl3ns/)
 
 ## 🌐 Socials:
 
